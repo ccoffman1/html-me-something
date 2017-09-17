@@ -1,0 +1,47 @@
+
+
+#toda {
+	color:crimson;
+	font-style:italic;
+	font-weight:bold;
+	
+}
+
+
+
+#plaque {
+	font-weight:bold;
+	font-size:16px;
+	
+}
+
+.journal{
+	
+	border-style: inset;
+	
+	
+}
+
+h3 {
+	font-weight:bold;
+	margin:auto;
+	text-align: center;
+	font-size:30px
+}
+
+div{
+	
+	padding:5px;
+	margin: 50px;
+
+}
+
+
+
+/** things I need
+selectors:
+element
+class
+id
+
+Add margin and padding  **/
